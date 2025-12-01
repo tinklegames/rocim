@@ -1,0 +1,101 @@
+{
+    "platforms": {
+        "game_distribution": {
+            "gameId": ""
+        },
+        "telegram": {
+            "adsgramBlockId": ""
+        },
+        "y8": {
+            "gameId": "68f78a58e82d4532cf27c13a",
+            "adsenseId": "ca-pub-2861343636416493",
+            "channelId": ""
+        },
+        "lagged": {
+            "devId": "",
+            "publisherId": ""
+        },
+        "huawei": {
+            "appId": ""
+        },
+        "msn": {
+            "gameId": ""
+        },
+        "discord": {
+            "appId": ""
+        },
+        "gamepush": {
+            "projectId": "",
+            "publicToken": ""
+        },
+        "jio_games": {
+            "packageName": ""
+        },
+        "crazy_games": {
+            "xsollaProjectId": "",
+            "isSandbox": false,
+            "useUserToken": false
+        },
+        "facebook": {
+            "subscribeForNotificationsOnStart": true,
+            "sendAnalyticsEvents": false
+        },
+        "yandex": {
+            "useSignedData": false,
+            "sendAnalyticsEvents": false
+        },
+        "youtube": {
+            "sendAnalyticsEvents": false
+        }
+    },
+    "advertisement": {
+        "interstitial": {
+            "preloadOnStart": true
+        },
+        "rewarded": {
+            "preloadOnStart": true
+        },
+        "useBuiltInErrorPopup": true,
+        "backfillId": ""
+    },
+    "payments": [
+        {
+            "id": "money_pack1",
+            "playgama": {
+                "amount": 29
+            }
+        },
+        {
+            "id": "money_pack2",
+            "playgama": {
+                "amount": 39
+            }
+        },
+        {
+            "id": "money_pack3",
+            "playgama": {
+                "amount": 49
+            }
+        },
+        {
+            "id": "money_pack4",
+            "playgama": {
+                "amount": 69
+            }
+        },
+        {
+            "id": "money_pack5",
+            "playgama": {
+                "amount": 99
+            }
+        },
+        {
+            "id": "car_pack1",
+            "playgama": {
+                "amount": 89
+            }
+        }
+    ],
+    "leaderboards": [],
+    "sendAnalyticsEvents": true
+}
